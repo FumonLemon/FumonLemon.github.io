@@ -2,7 +2,7 @@
 
 基于 [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io)（Jekyll 主题）构建的个人学术主页。
 
-🌐 **在线地址**: https://fumolemon.github.io
+🌐 **在线地址**: https://fumonlemon.github.io
 
 ## 关于我
 
