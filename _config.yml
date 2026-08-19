@@ -22,12 +22,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Ziqing Zeng"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/avatar.jpg"
   bio              : "Undergraduate Student in AI, School of Future Technology, Harbin Institute of Technology"
   location         : "Harbin, China"
   employer         : "Harbin Institute of Technology"
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=OJCd3IUAAAAJ"
   email            : "2024111701@stu.hit.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
