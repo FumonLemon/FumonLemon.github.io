@@ -2,7 +2,7 @@
 
 Academic personal homepage, built with [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io) (a Jekyll theme).
 
-🌐 **Live site**: https://fumolemon.github.io
+🌐 **Live site**: https://fumonlemon.github.io
 
 ## About
 
