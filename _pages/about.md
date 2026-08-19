@@ -17,17 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm **Ziqing Zeng** (曾子庆), an undergraduate student in Artificial Intelligence at the [School of Future Technology](https://fut.hit.edu.cn/), Harbin Institute of Technology. My research interest lies broadly in artificial intelligence, with a particular focus on large language models and data management. My google scholar citations are available <a href='https://scholar.google.com/citations?user=OJCd3IUAAAAJ'>here <strong><span id='total_cit'>0</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=OJCd3IUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I'm **Ziqing Zeng** (曾子庆), an undergraduate student in Artificial Intelligence at the [School of Future Technology](https://fut.hit.edu.cn/), Harbin Institute of Technology. My research interest lies broadly in artificial intelligence, with a particular focus on large language models and data management. My GPA is **3.80/4.0**, ranked **13/75** in my major. My google scholar citations are available <a href='https://scholar.google.com/citations?user=OJCd3IUAAAAJ'>here <strong><span id='total_cit'>0</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=OJCd3IUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 # 🔥 News
-- *2026.04*: &nbsp;🎉🎉 Our paper "The Case For Language Model Approximated LIKE Predicate" was accepted by Proceedings of the ACM on Management of Data (PACM MOD).
+- *2026.04*: &nbsp;🎉🎉 Our paper "The Case For Language Model Approximated LIKE Predicate" was accepted by **SIGMOD 2026**.
 - *2026.02*: &nbsp;🎉🎉 Awarded Meritorious Winner (M奖) in the Mathematical Contest in Modeling (MCM/ICM).
 - *2025.11*: &nbsp;🎉🎉 Won the First Prize (Provincial) in the National College Mathematical Competition and the National College Mathematical Contest in Modeling.
 - *2025.07*: &nbsp;🔧 Completed a nondestructive testing project for pipeline transportation defect detection.
 
 # 📝 Publications 
 
-- [The Case For Language Model Approximated LIKE Predicate](https://doi.org/10.1145/3786703), Yingze Li, Dong Wang, Zixuan Wang, Yingli Zhou, Yu Yan, Jian Geng, Xinyue Wang, **Ziqing Zeng**, Hongzhi Wang, **Proceedings of the ACM on Management of Data (PACM MOD) 2026**
+- [The Case For Language Model Approximated LIKE Predicate](https://doi.org/10.1145/3786703), Yingze Li, Dong Wang, Zixuan Wang, Yingli Zhou, Yu Yan, Jian Geng, Xinyue Wang, **Ziqing Zeng**, Hongzhi Wang, **SIGMOD 2026**
 
 # 🎖 Honors and Awards
 - *2026.02*: Meritorious Winner (M奖), Mathematical Contest in Modeling (MCM/ICM)
