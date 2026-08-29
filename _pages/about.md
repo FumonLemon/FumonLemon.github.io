@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm **Ziqing Zeng** (曾子庆), an undergraduate student in Artificial Intelligence at the [School of Future Technology](https://fut.hit.edu.cn/), Harbin Institute of Technology. My research interest lies broadly in artificial intelligence, with a particular focus on large language models and data management. My GPA is **3.80/4.0**, ranked **13/75** in my major. My google scholar citations are available <a href='https://scholar.google.com/citations?user=OJCd3IUAAAAJ'>here <strong><span id='total_cit'>0</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=OJCd3IUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I'm **Ziqing Zeng** (曾子庆), an undergraduate student in Artificial Intelligence at the [School of Future Technology](https://future.hit.edu.cn/), Harbin Institute of Technology. My research interest lies broadly in artificial intelligence, with a particular focus on large language models and data management. My GPA is **3.80/4.0**, ranked **13/75** in my major. My google scholar citations are available <a href='https://scholar.google.com/citations?user=OJCd3IUAAAAJ'>here <strong><span id='total_cit'>0</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=OJCd3IUAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 # 🔥 News
 - *2026.04*: &nbsp;🎉🎉 Our paper "The Case For Language Model Approximated LIKE Predicate" was accepted by **SIGMOD 2026**.
